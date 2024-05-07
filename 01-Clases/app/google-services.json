@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "357626240659",
+    "project_id": "ad-swgr1-2024a",
+    "storage_bucket": "ad-swgr1-2024a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357626240659:android:def704d60ed30f96283766",
+        "android_client_info": {
+          "package_name": "com.example.a2024aswgr1adc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvFv70TW_9ONfLQAaldBe_0zS9n7XegQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
