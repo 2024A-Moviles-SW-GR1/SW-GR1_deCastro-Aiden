@@ -14,7 +14,7 @@
     10 puntos 
 
 ### Prototipos
-![Prototipo de Generación de Enlace de Chat](https://www.figma.com/design/e1JCaEy3UzJFcJtJKFvbYN/TEXTit-Chatting-App---Chatbox-(Community)?node-id=0-1&t=DOxSKG4beZPKDMwF-1)
+![Prototipo de Generación de Enlace de Chat](https://www.figma.com/proto/e1JCaEy3UzJFcJtJKFvbYN/TxT--Prototype-Anonymous-Chat-App?node-id=3-3958&t=bJkqpCvXkjexiDMv-1)
 
 ### Reunión de Diseño (Discusión)
     En la reunión de diseño, discutimos la implementación de la generación de enlaces de chat utilizando Firestore para almacenar y gestionar los enlaces. También revisamos el flujo de expiración automática de enlaces y cómo notificar a los usuarios cuando un chat expire.
@@ -38,7 +38,7 @@
     10 puntos 
 
 ### Prototipos
-![Prototipo de Unirse a un Chat](https://www.figma.com/design/e1JCaEy3UzJFcJtJKFvbYN/TEXTit-Chatting-App---Chatbox-(Community)?node-id=0-1&t=DOxSKG4beZPKDMwF-1)
+![Prototipo de Unirse a un Chat](https://www.figma.com/proto/e1JCaEy3UzJFcJtJKFvbYN/TxT--Prototype-Anonymous-Chat-App?node-id=3-3958&t=bJkqpCvXkjexiDMv-1)
 
 ### Reunión de Diseño (Discusión)
     En la reunión de diseño, discutimos la implementación del flujo para unirse a un chat utilizando enlaces generados. También revisamos cómo gestionar la autenticación y la seguridad para asegurar que solo los usuarios autorizados puedan acceder a los chats.
@@ -64,7 +64,7 @@
     10 puntos
 
 ### Prototipos
-![Prototipo de Lista de Chats Activos](https://www.figma.com/design/e1JCaEy3UzJFcJtJKFvbYN/TEXTit-Chatting-App---Chatbox-(Community)?node-id=0-1&t=DOxSKG4beZPKDMwF-1)
+![Prototipo de Lista de Chats Activos](https://www.figma.com/proto/e1JCaEy3UzJFcJtJKFvbYN/TxT--Prototype-Anonymous-Chat-App?node-id=3-3958&t=bJkqpCvXkjexiDMv-1)
 
 ### Reunión de Diseño (Discusión)
 En la reunión de diseño, discutimos la estructura de la pantalla de lista de chats activos y cómo integrar la funcionalidad con Firestore para obtener y mostrar los chats del usuario de manera eficiente.
