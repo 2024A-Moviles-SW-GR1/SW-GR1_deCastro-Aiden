@@ -1,4 +1,4 @@
-package com.example.a2024aswgr1vaes
+package com.example.a2024aswgr1aldj
 
 import android.os.Parcel
 import android.os.Parcelable
